@@ -1,0 +1,14 @@
+.sidebar {
+    width: 40%;
+    float: right;
+    background-color: yellow;
+    border-style: dotted;
+  }
+
+  .column {
+    width: 30%;
+    float: left;
+    padding: 5px;
+    border-style: dashed;
+    border-radius: 10px;
+  }
