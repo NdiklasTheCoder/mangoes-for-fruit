@@ -3,6 +3,12 @@
     float: right;
     background-color: yellow;
     border-style: dotted;
+    border-left: 2px solid red;
+    border-right: 4px solid blue;
+    border-top: 6px solid orange;
+    border-bottom: 8px solid black;
+    border-radius: 10px;
+    border-style: ridge;
   }
 
   .column {
@@ -10,5 +16,13 @@
     float: left;
     padding: 5px;
     border-style: dashed;
+    border-radius: 10px;
+  }
+
+  .test-box {
+    border-left: 2px solid red;
+    border-right: 4px solid blue;
+    border-top: 6px solid orange;
+    border-bottom: 8px solid black;
     border-radius: 10px;
   }
